@@ -5,6 +5,3 @@
 [submodule "FastImputation"]
 	path = FastImputation
 	url = https://github.com/cran/FastImputation
-[submodule "GDELTtools"]
-	path = GDELTtools
-	url = https://github.com/cran/GDELTtools
